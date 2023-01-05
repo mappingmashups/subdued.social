@@ -1,8 +1,6 @@
 # subdued.social
-I would love it if someone set up a [Mastodon](https://joinmastodon.org/) instance at subdued.social for the Bellingham, Washington area (also known as the City of Subdued Excitement).
+~I would love it if someone set up a [Mastodon](https://joinmastodon.org/) instance at subdued.social for the Bellingham, Washington area (also known as the City of Subdued Excitement).~
 
-Or, should it be [salishsea.social](https://salishsea.social) instead?
+**UPDATE**: we are now live at [subdued.social](https://subdued.social/about)! Come join us there!
 
-I don't have the capacity to set up and run the server myself, but I can help!
-
-Get in touch: https://mastodon.social/@mappingmashups/109378712922218510
+Also, I am squatting on [salishsea.social](https://salishsea.social) if anybody wants it. I will probably let the registration lapse in a year if nobody volunteers to pick it up. Personally I think I will be happy at [subdued.social](https://subdued.social/about).
